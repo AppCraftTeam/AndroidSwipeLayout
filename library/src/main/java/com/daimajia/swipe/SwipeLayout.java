@@ -134,7 +134,7 @@ public class SwipeLayout extends FrameLayout {
         mSwipeListeners.remove(l);
     }
 
-    public void removeAllSwipeListener() {
+    public void removeAllSwipeListeners() {
         mSwipeListeners.clear();
     }
 
